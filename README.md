@@ -9,9 +9,10 @@ I used various regression algorithms. Such as:-
 
 ## Results
 XGBoost algorithm gave the best R-squared Score
-
-     Model	           R-squared Score
-XGBoost	                  85.799520
-Random Forest	            83.779970
-Linear Regression	        71.218184
-Support Vector Machines	  59.001585
+	 
+| Model      | R-squared Score |
+| ----------- | ----------- |
+| XGBoost	      | 85.799520       |
+| Random Forest	    | 83.779970        |
+| Linear Regression		      |  71.218184       |
+| Support Vector Machines	    |  59.001585       |
